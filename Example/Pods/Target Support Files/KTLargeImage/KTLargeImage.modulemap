@@ -1,0 +1,6 @@
+framework module KTLargeImage {
+  umbrella header "KTLargeImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

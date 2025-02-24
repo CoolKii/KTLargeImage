@@ -1,0 +1,16 @@
+PODS:
+  - KTLargeImage (0.1.0)
+
+DEPENDENCIES:
+  - KTLargeImage (from `../`)
+
+EXTERNAL SOURCES:
+  KTLargeImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KTLargeImage: 4baaf8effcd51675bf3121ae992b733d059221e6
+
+PODFILE CHECKSUM: 07fb1e2310d8148e3f347d7e162732d929d87362
+
+COCOAPODS: 1.16.2
